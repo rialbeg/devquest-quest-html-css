@@ -17,6 +17,6 @@
     background-color: #424250;
 }
 
-.bg-content td{
+.bg-content td,.header-moda th,.header-casa th{
     padding: 10px 15px;
 }
