@@ -1,0 +1,22 @@
+#moda, #casa{
+    color: white;
+    /* padding: 5px 10px; */
+    margin-bottom: 20px;
+}
+
+
+.header-moda{
+    background-color:#BB86FC;
+}
+
+.header-casa{
+    background-color: #00C4B4;
+}
+
+.bg-content {
+    background-color: #424250;
+}
+
+.bg-content td{
+    padding: 10px 15px;
+}
